@@ -1,0 +1,44 @@
+ input[type="text"]{
+		                 width: 50px;
+		                 }
+						 h2{
+						   font-size: 30px;
+						   font-family: cursive;
+						 }
+						 /* navbar */
+						 ul{
+						   list-style-type: none;
+						   margin:0;
+						   padding:0;
+						       text-align: center;
+                                                     background: #ddd;
+						 }
+						 ul li{
+						  display: inline-block;
+						  line-height: 30px;
+						 }
+						 li a{
+						   text-decoration: none;
+						   font-family: 30px;
+						   padding: 15px 10px;
+						   color: black;
+						 }
+						 /* input placeholder*/
+						 
+						    input[placeholder]{
+							      width: 100px;
+								  border: none;
+								  padding: 10px 15px;
+								  border-bottom: 2px solid black;
+							}
+							
+						 /* img */
+						 img{
+						   width: 300px;
+						   height: auto;
+						 }
+						 
+						 #search{
+						 position: relative;
+                                                   top: -37px;
+                       }	
